@@ -144,7 +144,7 @@ struct HomePageView: View {
             // Origamis representation
             
             ForEach(notes) { note in
-                Text(note.isGPTSummarized ? "🔖" : "📃") // Different symbols for original vs summarized
+                Text(note.isGPTSummarized ? "✨" : "📃") // Different symbols for original vs summarized
                     .foregroundColor(note.isGPTSummarized ? .blue : .black) // Different colors
                     .font(.largeTitle)
                     .scaleEffect(note.isRead ? 1.0 : 1.5) // Simple "shining" effect for unread notes
