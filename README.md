@@ -1,5 +1,5 @@
 ## Introduction
-**My Secret Diary is more than an APP**; it’s your personal sanctuary, a place where you can express yourself freely and receive supportive feedback. Whether you’re navigating the ups and downs of teenage life, dealing with challenges, or simply seeking a safety place to upload your feelings, My Secret Diary is here for you
+**My Secret Diary is more than an APP**; it’s your personal sanctuary, a place where you can express yourself freely and receive supportive feedback. Whether you’re navigating the ups and downs of teenage life, dealing with challenges, or simply seeking a safety place to upload your feelings, My Secret Diary is here for you.
 
 
 ## How to Run the Project
