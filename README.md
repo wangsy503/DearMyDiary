@@ -21,3 +21,5 @@ Everyone harbors experiences and emotions they may find difficult to share with 
 
 ## How we built it 
 We use SwiftUI to build our mobile application user interface and use Python Flask framework to build backend. Use OpenAI API with model “gpt-3.5-turbo-instruct” to generate responses.
+
+![diaryArch](https://github.com/wangsy503/DearMyDiary/assets/46682066/76fe5180-5fd8-4e39-b7df-65f5de17a71b)
